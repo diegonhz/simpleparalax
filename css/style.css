@@ -1,0 +1,18 @@
+header {
+	background:url(https://upload.wikimedia.org/wikipedia/commons/1/16/Appearance_of_sky_for_weather_forecast,_Dhaka,_Bangladesh.JPG);
+	background-size: cover;
+}
+
+.globo, .globo2 {
+	min-height: 2000px;
+	background-image: url(http://zipperke.net63.net/balloon.png);
+	background-repeat: no-repeat;
+	background-position-x: center;
+	background-position-y: 400px;
+}
+
+.globo2 {
+	background-image: url(http://www.globosvientozero.com/wp-content/themes/globosVientozero/images/globoFondo.png);
+	background-position-x:100px; 
+	background-position-y:500px;
+}
